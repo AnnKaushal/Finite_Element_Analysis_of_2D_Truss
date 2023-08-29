@@ -4,6 +4,8 @@
 
 This MATLAB project demonstrates finite element analysis on a 2D truss structure. The analysis involves discretization of the truss into nodes and elements, calculation of the global stiffness matrix, solving for nodal displacements, computing element forces and support reactions, and finally visualizing the results.
 
+This project is a part of my final year BTech Industrial Training program in Civil Engineering, supervised by Dr. K. Nallasivam.
+
 ## Author
 
 - **Author:** Anandita Kaushal
